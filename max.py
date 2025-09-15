@@ -8,3 +8,4 @@ try:
     print("Le max est:",max)
 except():
     print("liste vide")
+    print("hello")
